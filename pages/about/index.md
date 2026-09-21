@@ -16,8 +16,14 @@ compositions:
     name: "2026"
     data:
       -
+        title: "*Momentum*"
+        excerpt: A solo piano piece for one hand. Commissioned and published by ABRSM for the Grade 6 one-handed piano syllabus. Available in [digital format](https://www.sheetmusicdirect.com/se/ID_No/2142759/Product.aspx?srsltid=AU7gw4VnwyhRDZK_5Bx_kzWDrvhLR2i68XU8agsV3dX0mcBKv9aE1Axn)
+      -
+        title: "*Blue Skies*"
+        excerpt: A piece for solo Clarion with accompaniment, as part of a collection of pieces in the *Clarion Sparks* series, published by [ABRSM](https://shop.abrsm.org/pages/clarion-sparks-downloads). 
+      -
         title: "*My Piano Sketchbook*"
-        excerpt: A collection of 12 descriptive pieces and duets for piano, grade 1-2 level. To be published by Forsyth later this year.
+        excerpt: A collection of 12 descriptive pieces and duets for piano, grade 1-2 level. To be published by Forsyth later in 2026.
   -
     name: "2025"
     data:
