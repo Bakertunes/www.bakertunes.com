@@ -6,7 +6,7 @@ date: 2026-09-25
 score:
   pdf: 
   image: 
-youtube_id: https://youtu.be/2sk-vyd7ZWM?si=_WilmzYjskAy7FFL
+youtube_id: 2sk-vyd7ZWM
 soundcloud_id: 
 tags:
   - Midi Performance
@@ -19,6 +19,6 @@ tags:
 The music starts gently and the melody seemed to grow from the words:
  *I look round in wonder, I look round and view the world, everything I see fills me with wonder*
 
-The middle section is complexly varied harmonically and becomes more active and exciting, portraying the sense of excitement I felt as I looked around - I could hardly believe what I was seeing! 
+The middle section is texturally complex and harmonically varied, becoming more active and exciting to portray the sense of excitement I felt as I looked around - I could hardly believe what I was seeing! 
 
 The ending returns to the opening theme, closing the piece peacefully as if the sense of marvel and amazement settles and becomes a gentle joy. 
