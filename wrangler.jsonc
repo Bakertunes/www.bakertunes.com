@@ -12,9 +12,8 @@
     "nodejs_compat"
   ],
   "previews": {
-    // ...
     "vars": {
-      "ELEVENTY_ENV": "preview"
+      "ELEVENTY_ENV": "production"
     }
   }
 }
